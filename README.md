@@ -2,7 +2,7 @@
   <img alt="Logo" src="https://user-images.githubusercontent.com/62770500/199333052-3cd38b31-7e77-4883-a1ff-a037afcc0492.png" width="100" />
 </div>
 <h1 align="center">
-  anaflous.com - v1
+  Vilk Dmytro
 </h1>
 <p align="center">
   The first iteration of <a href="https://anaflous.com" target="_blank">anaflous.com</a> built with <a href="https://nextjs.org/" target="_blank">Nextjs</a> and hosted with <a href="https://vercel.com/" target="_blank">Vercel</a>
@@ -14,7 +14,7 @@
   </a>
 </p>
 
-![demo](https://user-images.githubusercontent.com/62770500/199337431-d632cc3c-12fb-40db-8f96-0d5e55555579.png)
+![demo](https://user-images.githubusercontent.com/62770500/199337431-d632cc3c-12fb-40db-8f96-0d5e5.png)
 ---
 ## 🚨 About this repo (please read!)
 
@@ -78,7 +78,7 @@ Yes, you can fork this repo. Please give me proper credit by linking back to [an
 1. Clone the repo CLI
 
    ```sh
-   git clone https://github.com/hktitof/my-website.git
+   git clone https://github.com/billiondev-911/my-website.git
    ```
 
 2. Install and use the correct version of Node using [NVM](https://github.com/nvm-sh/nvm)
