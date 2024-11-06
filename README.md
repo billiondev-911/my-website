@@ -4,9 +4,9 @@
 <h1 align="center">
   Vilk Dmytro
 </h1>
-<p align="center">
+<!-- <p align="center">
   The first iteration of <a href="https://anaflous.com" target="_blank">anaflous.com</a> built with <a href="https://nextjs.org/" target="_blank">Nextjs</a> and hosted with <a href="https://vercel.com/" target="_blank">Vercel</a>
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://my-website-ten-sage.vercel.app/" target="_blank">
